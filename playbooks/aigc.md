@@ -30,5 +30,5 @@
    - **咒语关键点**：`3D claymation style. The [Brand] logo icon is placed on top, and the text "[Brand Name]" is placed directly underneath it. The colors must strictly match the original [Brand] branding. It has a fluffy matte clay finish, pristine crisp white background`。
 
 3. **独立出图**：使用工具 `generate_image` 生成上述所需的各单体资产。每一张图都是单独生成，确保干净的纯白底色（`crisp white background`）和规定的光影材质。
-4. **自动导出归档**：生成完毕后，必须要使用命令行主动将这些生成的素材文件转移保存到 `~/Desktop/Jemma工作台/创作/` 下的对应项目目录或素材目录中，保持工作台内部的文件流统一。
+4. **自动导出归档**：生成完毕后，必须要使用命令行主动将这些生成的素材文件转移保存到 `[你设定的素材归档本地目录]` 下的对应项目目录中，保持工作台内部的文件流统一。
 5. **并排交付**：最后向佳蔓展示已经转移保存好的生成画廊和本地路径。
